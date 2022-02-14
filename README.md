@@ -1,8 +1,5 @@
-# Artificial Neural Network Classifications: Predicting NFL Game Outcomes
-By: Jason Melnik
-
-# Data
-2010 to 2020 games. Individual player statistics.
-
-# Research Paper
-In this repository.
+![](https://github.com/Zidiam/Artificial-Neural-Network-Classifications-Predicting-NFL-Game-Outcomes/blob/main/Research%20Paper%20PNG/Research%20Paper-1.png?raw=true)
+![](https://github.com/Zidiam/Artificial-Neural-Network-Classifications-Predicting-NFL-Game-Outcomes/blob/main/Research%20Paper%20PNG/Research%20Paper-2.png?raw=true)
+![](https://github.com/Zidiam/Artificial-Neural-Network-Classifications-Predicting-NFL-Game-Outcomes/blob/main/Research%20Paper%20PNG/Research%20Paper-3.png?raw=true)
+![](https://github.com/Zidiam/Artificial-Neural-Network-Classifications-Predicting-NFL-Game-Outcomes/blob/main/Research%20Paper%20PNG/Research%20Paper-4.png?raw=true)
+![](https://github.com/Zidiam/Artificial-Neural-Network-Classifications-Predicting-NFL-Game-Outcomes/blob/main/Research%20Paper%20PNG/Research%20Paper-5.png?raw=true)
